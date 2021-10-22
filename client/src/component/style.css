@@ -1,0 +1,12 @@
+Nav{
+    justify-content: end;
+
+}
+
+.decor{
+    text-decoration: none;
+}
+
+.decor:hover{
+    text-decoration: line-through;
+}
